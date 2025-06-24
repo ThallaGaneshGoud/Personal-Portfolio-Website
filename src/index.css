@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
   margin: 0;
   padding: 0;
@@ -515,3 +516,8 @@ footer h4{
     height: 110px;
   }
 }
+=======
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+>>>>>>> a48ce2a435bd20dc6921d6f7d8bfdfdd531e49a8

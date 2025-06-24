@@ -1,13 +1,38 @@
+<<<<<<< HEAD
 # 💼 Personal Portfolio Website
 
 A modern and responsive personal portfolio website to showcase my skills, projects, and contact information. Built using React and Tailwind CSS.
 
 
+=======
+# 📝 Resume Builder using React & TailwindCSS
+
+A responsive, modern Resume Builder web application built with **React** and **TailwindCSS**. Users can enter personal and professional details and instantly generate a clean, formatted resume ready to download or print.
+
+---
+
+## 🚀 Features
+
+- ✨ Real-time Resume Preview
+- 🎨 TailwindCSS for sleek and responsive design
+- 🧩 Component-based architecture
+- 💾 Option to download/print the resume
+- 🔐 No login/signup required
+- ⚡ Fast performance and mobile-friendly
+
+---
+
+## 📸 Screenshots
+
+
+![WhatsApp Image 2025-06-24 at 20 41 54_4dfdbfd6](https://github.com/user-attachments/assets/da6c1602-3ee1-49b0-b55b-bb8892230087)
+>>>>>>> a48ce2a435bd20dc6921d6f7d8bfdfdd531e49a8
 
 ---
 
 ## 🛠️ Tech Stack
 
+<<<<<<< HEAD
 - ⚛️ React JS
 - 🎨 Tailwind CSS 
 - 🧩 JavaScript 
@@ -52,3 +77,9 @@ npm start
 
 
 ![ProjectsPage](<WhatsApp Image 2025-06-25 at 01.17.18_f1f19e11.jpg>)
+=======
+- **Frontend:** React.js
+- **Styling:** TailwindCSS
+- **Icons:** React Icons
+- **State Management:** React Hooks (`useState`, `useEffect`)
+>>>>>>> a48ce2a435bd20dc6921d6f7d8bfdfdd531e49a8
