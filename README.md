@@ -24,7 +24,16 @@ A responsive, modern Resume Builder web application built with **React** and **T
 
 ## 📸 Screenshots
 
+![LandingPage](<WhatsApp Image 2025-06-25 at 01.15.49_6ed993f3.jpg>)
 
+
+
+
+![ResumePage](<WhatsApp Image 2025-06-25 at 01.17.16_782166af.jpg>)
+
+
+
+![ProjectsPage](<WhatsApp Image 2025-06-25 at 01.17.18_f1f19e11.jpg>)
 
 
 ---
@@ -65,17 +74,7 @@ npm start
 
 
 
-## ScreenShots
-![LandingPage](<WhatsApp Image 2025-06-25 at 01.15.49_6ed993f3.jpg>)
 
-
-
-
-![ResumePage](<WhatsApp Image 2025-06-25 at 01.17.16_782166af.jpg>)
-
-
-
-![ProjectsPage](<WhatsApp Image 2025-06-25 at 01.17.18_f1f19e11.jpg>)
 =======
 - **Frontend:** React.js
 - **Styling:** TailwindCSS
