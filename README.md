@@ -25,8 +25,7 @@ A responsive, modern Resume Builder web application built with **React** and **T
 ## 📸 Screenshots
 
 
-![WhatsApp Image 2025-06-24 at 20 41 54_4dfdbfd6](https://github.com/user-attachments/assets/da6c1602-3ee1-49b0-b55b-bb8892230087)
->>>>>>> a48ce2a435bd20dc6921d6f7d8bfdfdd531e49a8
+
 
 ---
 
