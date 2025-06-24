@@ -80,4 +80,4 @@ npm start
 - **Styling:** TailwindCSS
 - **Icons:** React Icons
 - **State Management:** React Hooks (`useState`, `useEffect`)
->>>>>>> a48ce2a435bd20dc6921d6f7d8bfdfdd531e49a8
+
