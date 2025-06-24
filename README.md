@@ -1,12 +1,29 @@
-Hello , welcome to  Resume Builder .
-Here u can build your resume in seconds and download a copy of the same .
+# 📝 Resume Builder using React & TailwindCSS
+
+A responsive, modern Resume Builder web application built with **React** and **TailwindCSS**. Users can enter personal and professional details and instantly generate a clean, formatted resume ready to download or print.
+
+---
+
+## 🚀 Features
+
+- ✨ Real-time Resume Preview
+- 🎨 TailwindCSS for sleek and responsive design
+- 🧩 Component-based architecture
+- 💾 Option to download/print the resume
+- 🔐 No login/signup required
+- ⚡ Fast performance and mobile-friendly
+
+---
+
+## 📸 Screenshots
 
 
-If you want to copy the project simply clone the repository in a new folder 
-1. to cLone use the command 
-git clone https://github.com/himanshugupta2168/ResumeBuilder.git
+![ScreenShot](<WhatsApp Image 2025-06-24 at 20.41.54_f86c50da.jpg>)
+---
 
-2. now move to the directory of the project
-3. now run npm i to download all the dependencies of the project 
-4. now run th ecommand "npm run dev" to  see the roject live.
+## 🛠️ Tech Stack
 
+- **Frontend:** React.js
+- **Styling:** TailwindCSS
+- **Icons:** React Icons
+- **State Management:** React Hooks (`useState`, `useEffect`)
